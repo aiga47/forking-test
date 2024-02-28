@@ -1,11 +1,13 @@
-Aiga AD
 Crimson
 Orange
-Green
+Blue
 Cyan
 Yellow
-Ivory
-
-Rach!
-India
-working on Git
+Charcoal
+Khaki
+Coral
+Silver
+Fuchsia
+Purple
+Brown
+Red
